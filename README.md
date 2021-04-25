@@ -1,5 +1,5 @@
-# CarND-Traffic-Sign-Classifier
-Udacity's 'Traffic Sign Classifier' project
+# SD-Car-Traffic-Signs-Classifier-P3
+Udacity's Self-Driving Car Enginere Project #3 -- 'Traffic Sign Classifier' 
 
 **Build a Traffic Sign Recognition Project**
 
